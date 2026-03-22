@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { useForm } from 'react-hook-form';
-import { X, CheckSquare, AlertCircle, Sparkles } from 'lucide-react';
+import { X, CheckSquare} from 'lucide-react';
 
 // 1. Updated Interface to match DB/Parent expectations
 interface TaskFormData {

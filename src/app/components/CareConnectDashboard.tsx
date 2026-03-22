@@ -33,11 +33,11 @@ export function CareConnectDashboard() {
     { id: 4, time: '03:30 PM', title: 'Check-up', type: 'Check-up', patient: 'David Wilson', duration: '15 min' },
   ];
 
-  const careLog = [
-    { id: 1, time: '08:45 AM', note: 'Patient vitals recorded and stable', patient: 'Sarah Johnson' },
-    { id: 2, time: '09:15 AM', note: 'Medication administered as prescribed', patient: 'Michael Chen' },
-    { id: 3, time: '09:45 AM', note: 'Patient showing improvement, continue monitoring', patient: 'Emma Davis' },
-  ];
+  // const careLog = [
+  //   { id: 1, time: '08:45 AM', note: 'Patient vitals recorded and stable', patient: 'Sarah Johnson' },
+  //   { id: 2, time: '09:15 AM', note: 'Medication administered as prescribed', patient: 'Michael Chen' },
+  //   { id: 3, time: '09:45 AM', note: 'Patient showing improvement, continue monitoring', patient: 'Emma Davis' },
+  // ];
 
   const recentActivity = [
     { id: 1, action: 'New patient registered', user: 'Dr. Sarah Williams', time: '5 min ago', icon: UserPlus },
