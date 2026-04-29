@@ -63,8 +63,8 @@ npm run dev
 The app will be available at `http://localhost:5173`
 
 **Login**
-admin@careconnect.com
-password123
+- admin@careconnect.com
+- password123
 
 ---
 
