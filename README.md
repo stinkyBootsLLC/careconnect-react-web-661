@@ -213,12 +213,6 @@ Audited on deployed production URL: https://careconnect-web-pi.vercel.app
 
 ---
 
-## Contributing
-
-This app is part of the SWEN-661 Team 2 CareConnect project. See the root repository README for contribution guidelines.
-
----
-
 ## Course
 
 SWEN-661 - User Interface Implementation — Team 2
