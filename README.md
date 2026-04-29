@@ -116,37 +116,7 @@ npx playwright test
 
 ---
 
-## Deployment
 
-### Vercel (Recommended)
-
-#### Option 1 — Vercel CLI
-
-```bash
-npm install -g vercel
-vercel --prod
-```
-
-#### Option 2 — GitHub Integration
-
-1. Go to https://vercel.com
-2. Click "Add New Project"
-3. Import `SWEN-661-Team-2/team_2_project`
-4. Set root directory to `apps/react`
-5. Click Deploy
-
-### Netlify
-
-1. Build the project: `npm run build`
-2. Drag and drop the `dist/` folder into [Netlify Drop](https://app.netlify.com/drop)
-
-### GitHub Pages
-
-1. Install gh-pages: `npm install -D gh-pages`
-2. Add to `package.json` scripts: `"deploy": "gh-pages -d dist"`
-3. Run: `npm run build && npm run deploy`
-
----
 
 ## Project Structure
 
